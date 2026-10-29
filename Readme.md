@@ -47,7 +47,7 @@ The workflow automatically:
 Electron transfer in proteins occurs through quantum mechanical tunneling.
 
 The Page–Moser–Dutton model estimates the logarithm of the ET rate constant using
-###
+##
 $$
 \boxed{
 \log_{10}(k_{ET})
@@ -59,7 +59,7 @@ $$
 \frac{3.1(\Delta G+\lambda)^2}{\lambda}
 }
 $$
-###
+##
 
 where
 
