@@ -50,17 +50,10 @@ The Page–Moser–Dutton model estimates the logarithm of the ET rate constant 
 ## Equation
 
 $$
-\boxed{
-\log_{10}(k_{ET})
-=
-13
--
-\beta(R-3.6)
--
-\frac{3.1(\Delta G+\lambda)^2}{\lambda}
-}
+\log_{10}(k_{ET}) = 13 - \beta(R-3.6) - \frac{3.1(\Delta G+\lambda)^2}{\lambda}
 $$
 
+where:
 where
 
 | Symbol       | Meaning                        |
